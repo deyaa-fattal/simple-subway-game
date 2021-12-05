@@ -180,7 +180,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2d473355f421e174ba7afb24881e8888, type: 2}
+  - {fileID: 2100000, guid: 57b9fa1517475fd4b8f060159614b74c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -282,3 +282,6 @@ MonoBehaviour:
     type: 3}
   obstaclePrefab: {fileID: 3513120157906751832, guid: 02a82e7a718df8749aeb913af3ed8032,
     type: 3}
+  tallobstaclePrefab: {fileID: 3513120157906751832, guid: 3797b9a3108fb7c4cbb1b9acd5d43b19,
+    type: 3}
+  tallobstacleChance: 0.2
